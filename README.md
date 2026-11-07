@@ -14,21 +14,13 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MukulSharma:
-    def __init__(self):
-        self.name       = "Mukul Sharma"
-        self.role       = "B.Tech AI & ML Student (2nd Year)"
-        self.languages  = ["Python", "Java", "C++", "C", "SQL"]
-        self.interests  = ["Machine Learning", "DSA", "Automation", "Software Engineering"]
-        self.fun_fact   = "I built a bot that draws perfect circles on Neal.fun 🎯"
-
-    def current_focus(self):
-        return [
-            "Mastering Data Structures & Algorithms",
-            "Building end-to-end ML pipelines",
-            "Contributing to open-source projects",
-        ]
+```yaml
+name: Mukul Sharma
+role: B.Tech AI & ML Student (2nd Year)
+languages: [Python, Java, C++, C, SQL]
+interests: [Machine Learning, DSA, Automation, Software Engineering]
+currently_learning: [Neural Networks, Data Science Pipelines, Advanced DSA]
+fun_fact: I built a bot that draws perfect circles on Neal.fun 🎯
 ```
 
 <br/>
@@ -81,7 +73,7 @@ class MukulSharma:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul3432&theme=tokyonight&hide_border=true" width="92%" />
+  <img src="https://streak-stats.demolab.com/?user=Mukul3432&theme=tokyonight&hide_border=true" width="92%" />
 </div>
 
 <br/>
@@ -89,12 +81,20 @@ class MukulSharma:
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mukul3432&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" width="92%" />
+  <img src="https://github-trophies.vercel.app/?username=Mukul3432&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" width="92%" />
 </div>
 
 <br/>
 
-## 🤝 Let's Connect
+## 🟩 Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/70a5fd/Mukul3432" alt="Mukul's Contribution Graph" width="92%" />
+</div>
+
+<br/>
+
+## 🤝 Connect
 
 <div align="center">
 
@@ -106,11 +106,10 @@ class MukulSharma:
   </a>&nbsp;
   <a href="https://github.com/Mukul3432">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/1UXImcW5C4/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="92%" />
 
   <br/><br/>
 
