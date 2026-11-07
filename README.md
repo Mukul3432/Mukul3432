@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Mukul%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=AI%20%26%20ML%20Undergrad%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=16&descAlignY=55&descColor=9aa5ce" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Mukul%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=AI%20%C2%B7%20ML%20Undergrad%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=16&descAlignY=55&descColor=9aa5ce" width="100%" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -14,13 +14,21 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Mukul Sharma
-role: B.Tech AI & ML Student (2nd Year)
-languages: [Python, Java, C++, C, SQL]
-interests: [Machine Learning, DSA, Automation, Software Engineering]
-currently_learning: [Neural Networks, Data Science Pipelines, Advanced DSA]
-fun_fact: I built a bot that draws perfect circles on Neal.fun 🎯
+```python
+class MukulSharma:
+    def __init__(self):
+        self.name       = "Mukul Sharma"
+        self.role       = "B.Tech AI & ML Student (2nd Year)"
+        self.languages  = ["Python", "Java", "C++", "C", "SQL"]
+        self.interests  = ["Machine Learning", "DSA", "Automation", "Software Engineering"]
+        self.fun_fact   = "I built a bot that draws perfect circles on Neal.fun 🎯"
+
+    def current_focus(self):
+        return [
+            "Mastering Data Structures & Algorithms",
+            "Building end-to-end ML pipelines",
+            "Contributing to open-source projects",
+        ]
 ```
 
 <br/>
@@ -65,7 +73,7 @@ fun_fact: I built a bot that draws perfect circles on Neal.fun 🎯
 
 <br/>
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Mukul3432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=70a5fd&title_color=70a5fd" width="49%" />
@@ -78,18 +86,12 @@ fun_fact: I built a bot that draws perfect circles on Neal.fun 🎯
 
 <br/>
 
-## 🏆 Trophies
+## 📈 LeetCode
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mukul3432&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" width="92%" />
-</div>
-
-<br/>
-
-## 🟩 Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/70a5fd/Mukul3432" alt="Mukul's Contribution Graph" width="92%" />
+  <a href="https://leetcode.com/u/1UXImcW5C4/">
+    <img src="https://leetcard.jacoblin.cool/1UXImcW5C4?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="92%" />
+  </a>
 </div>
 
 <br/>
