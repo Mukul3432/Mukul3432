@@ -65,13 +65,24 @@ mindset: Continuous Learner & Tech Explorer
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Repositories
 
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| 💰 **[Java-Based Expense Tracker](https://github.com/Mukul3432/Java-Based-Expense-Tracker)** | `Java`, `OOP` | Personal finance tracking application designed with robust OOP architecture for expense logging and calculation. | [View Code →](https://github.com/Mukul3432/Java-Based-Expense-Tracker) |
-| 🎯 **[Perfect-Circle-Drawer](https://github.com/Mukul3432/Perfect-Circle-Drawer)** | `Python`, `Automation` | Automated precision script engineered to solve and simulate flawless circles for the Neal.fun challenge. | [View Code →](https://github.com/Mukul3432/Perfect-Circle-Drawer) |
-| 🧠 **[Practice-coding](https://github.com/Mukul3432/Practice-coding)** | `C`, `C++`, `Algorithms` | Curated archive of solved algorithmic questions and core computer science problems practiced during my coursework. | [View Code →](https://github.com/Mukul3432/Practice-coding) |
+<div align="center">
+  <a href="https://github.com/Mukul3432/Java-Based-Expense-Tracker">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Mukul3432&repo=Java-Based-Expense-Tracker&theme=tokyonight&hide_border=true" alt="Java-Based-Expense-Tracker" width="48%" />
+  </a>
+  <a href="https://github.com/Mukul3432/Perfect-Circle-Drawer">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Mukul3432&repo=Perfect-Circle-Drawer&theme=tokyonight&hide_border=true" alt="Perfect-Circle-Drawer" width="48%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Mukul3432/Practice-coding">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Mukul3432&repo=Practice-coding&theme=tokyonight&hide_border=true" alt="Practice-coding" width="97%" />
+  </a>
+</div>
+
+<br />
 
 ---
 
@@ -88,23 +99,11 @@ mindset: Continuous Learner & Tech Explorer
 
 <br />
 
----
-
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mukul3432&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="97%" />
 </div>
 
----
-
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukul3432/Mukul3432/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukul3432/Mukul3432/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Mukul3432/Mukul3432/output/github-contribution-grid-snake.svg">
-</picture>
+<br />
 
 ---
 
